@@ -9,3 +9,4 @@ use warnings;
 # Print a message.
 print "Hello, World!\n";
 print "thank you!\n";
+print "good bye\n";
