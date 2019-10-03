@@ -10,3 +10,5 @@ use warnings;
 print "Hello, World!\n";
 print "thank you!\n";
 print "good bye\n";
+
+print "this is final version for alpha stage\n";
